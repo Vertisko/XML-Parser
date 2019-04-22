@@ -1,0 +1,14 @@
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParserConsole.deps.json
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParserConsole.runtimeconfig.json
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParserConsole.runtimeconfig.dev.json
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParserConsole.dll
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParserConsole.pdb
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParser.dll
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/bin/Release/netcoreapp2.1/XMLParser.pdb
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.csprojAssemblyReference.cache
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.csproj.CoreCompileInputs.cache
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.AssemblyInfoInputs.cache
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.AssemblyInfo.cs
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.csproj.CopyComplete
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.dll
+/Users/davidkakis/RiderProjects/XMLParser/XMLParserConsole/obj/Release/netcoreapp2.1/XMLParserConsole.pdb

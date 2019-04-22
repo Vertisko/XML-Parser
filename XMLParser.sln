@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParser", "XMLParser\XMLParser.csproj", "{9F8F152A-7389-4921-82B6-BE16D550C84A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParser.tests", "XMLParser.tests\XMLParser.tests.csproj", "{03512CD4-0E5D-4E6C-B58D-5520B66F8956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParserConsole", "XMLParserConsole\XMLParserConsole.csproj", "{D0959637-8C55-4A51-B10F-1E5292D86182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8F152A-7389-4921-82B6-BE16D550C84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8F152A-7389-4921-82B6-BE16D550C84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8F152A-7389-4921-82B6-BE16D550C84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8F152A-7389-4921-82B6-BE16D550C84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03512CD4-0E5D-4E6C-B58D-5520B66F8956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03512CD4-0E5D-4E6C-B58D-5520B66F8956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03512CD4-0E5D-4E6C-B58D-5520B66F8956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03512CD4-0E5D-4E6C-B58D-5520B66F8956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0959637-8C55-4A51-B10F-1E5292D86182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0959637-8C55-4A51-B10F-1E5292D86182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0959637-8C55-4A51-B10F-1E5292D86182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0959637-8C55-4A51-B10F-1E5292D86182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

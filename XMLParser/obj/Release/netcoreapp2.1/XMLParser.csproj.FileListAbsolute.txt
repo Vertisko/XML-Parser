@@ -1,0 +1,9 @@
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/bin/Release/netcoreapp2.1/XMLParser.deps.json
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/bin/Release/netcoreapp2.1/XMLParser.dll
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/bin/Release/netcoreapp2.1/XMLParser.pdb
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/obj/Release/netcoreapp2.1/XMLParser.csprojAssemblyReference.cache
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/obj/Release/netcoreapp2.1/XMLParser.csproj.CoreCompileInputs.cache
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/obj/Release/netcoreapp2.1/XMLParser.AssemblyInfoInputs.cache
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/obj/Release/netcoreapp2.1/XMLParser.AssemblyInfo.cs
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/obj/Release/netcoreapp2.1/XMLParser.dll
+/Users/davidkakis/RiderProjects/XMLParser/XMLParser/obj/Release/netcoreapp2.1/XMLParser.pdb
