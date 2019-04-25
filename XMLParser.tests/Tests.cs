@@ -6,12 +6,12 @@ namespace XMLParser.tests
     public class Tests
     {
         [TestCase(@"/Users/davidkakis/RiderProjects/XMLParser/XMLParser/test.xml")]
-        public void When_InvalidFile_Expect_False(string filePath){
+        public void When_IsValidXmlString_Function_InvalidFile_Expect_False(string filePath){
             Assert.That(IsValidXmlString(LoadFileIntoString(filePath)), Is.False);   
         }
         
         [TestCase(@"/Users/davidkakis/RiderProjects/XMLParser/XMLParser/test.xml")]
-        public void When_InvalidFile_Expect_True(string filePath){
+        public void When_LoadXml_Function_InvalidFile_Expect_True(string filePath){
             Assert.That(LoadXml(filePath), Is.True);   
         }
     }

@@ -704,13 +704,12 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/davidkakis/.nuget/NuGet/NuGet.Config"
+        "/Users/davidkakis/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "/Users/davidkakis/.nuget/NuGet/~/RiderProjects/Calculator/Calculator/bin/Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

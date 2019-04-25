@@ -10,5 +10,5 @@ Intel Core i5-3210M CPU 2.50GHz (Ivy Bridge), 1 CPU, 4 logical and 2 physical co
 ```
 |                Method |      Mean |    Error |    StdDev |    Median |
 |---------------------- |----------:|---------:|----------:|----------:|
-|        BenchmarkRegex | 164.81 us | 4.067 us | 11.863 us | 160.25 us |
-| BenchmarkLoopingChars |  86.31 us | 1.650 us |  2.087 us |  85.98 us |
+|        BenchmarkRegex | 163.22 us | 4.538 us | 12.725 us | 159.07 us |
+| BenchmarkLoopingChars |  91.96 us | 1.832 us |  4.174 us |  91.47 us |
